@@ -1,4 +1,4 @@
-# Statistical Comparisons using R
+# Exploring and Predicting Using Linear Regression with R
 
 ## Maintainer(s)
 
